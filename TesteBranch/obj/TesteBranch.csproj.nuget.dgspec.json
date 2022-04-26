@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Teste-branch\\TesteBranch\\TesteBranch.csproj": {}
+    "C:\\dev\\teste-branch\\TesteBranch\\TesteBranch.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Teste-branch\\TesteBranch\\TesteBranch.csproj": {
+    "C:\\dev\\teste-branch\\TesteBranch\\TesteBranch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Teste-branch\\TesteBranch\\TesteBranch.csproj",
+        "projectUniqueName": "C:\\dev\\teste-branch\\TesteBranch\\TesteBranch.csproj",
         "projectName": "TesteBranch",
-        "projectPath": "C:\\dev\\Teste-branch\\TesteBranch\\TesteBranch.csproj",
+        "projectPath": "C:\\dev\\teste-branch\\TesteBranch\\TesteBranch.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Teste-branch\\TesteBranch\\obj\\",
+        "outputPath": "C:\\dev\\teste-branch\\TesteBranch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

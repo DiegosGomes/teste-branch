@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6kt3Caa1UQgetuyLiTnTC3EPFc+H53QpGgLLSU4huRG5aHUxjXHQKeh8yuWXzYlvfmTC9ftEuynw9Y8UgJOkBg==",
+  "dgSpecHash": "vJm09AwrYwkaOVYqHJ3ygZhOiSXzW9bZhTqCK1EEobQfBkcCNUPxkl6HaQWuFVmkjt6wzRJtx2lAnLCSbmj47w==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Teste-branch\\TesteBranch\\TesteBranch.csproj",
+  "projectFilePath": "C:\\dev\\teste-branch\\TesteBranch\\TesteBranch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
